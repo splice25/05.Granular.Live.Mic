@@ -202,7 +202,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 589.0, 137.0, 66.0, 23.0 ],
+									"patching_rect" : [ 358.0, 53.0, 66.0, 23.0 ],
 									"rnbo_classname" : "param",
 									"rnbo_extra_attributes" : 									{
 										"exponent" : 1.0,
@@ -623,7 +623,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 589.0, 215.0, 51.0, 23.0 ],
+									"patching_rect" : [ 358.0, 131.0, 51.0, 23.0 ],
 									"rnbo_classname" : "set",
 									"rnbo_serial" : 1,
 									"rnbo_uniqueid" : "set_obj-10",
@@ -679,7 +679,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 493.0, 360.0, 43.0, 23.0 ],
+									"patching_rect" : [ 262.0, 276.0, 43.0, 23.0 ],
 									"rnbo_classname" : "out~",
 									"rnbo_extra_attributes" : 									{
 										"comment" : "",
@@ -775,7 +775,7 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 259.0, 343.0, 43.0, 23.0 ],
+									"patching_rect" : [ 28.0, 259.0, 43.0, 23.0 ],
 									"rnbo_classname" : "out~",
 									"rnbo_extra_attributes" : 									{
 										"comment" : "",
@@ -872,7 +872,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "signal" ],
-									"patching_rect" : [ 497.0, 122.0, 35.0, 23.0 ],
+									"patching_rect" : [ 266.0, 38.0, 35.0, 23.0 ],
 									"rnbo_classname" : "in~",
 									"rnbo_extra_attributes" : 									{
 										"comment" : "",
@@ -968,7 +968,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "signal" ],
-									"patching_rect" : [ 267.0, 103.0, 35.0, 23.0 ],
+									"patching_rect" : [ 36.0, 19.0, 35.0, 23.0 ],
 									"rnbo_classname" : "in~",
 									"rnbo_extra_attributes" : 									{
 										"comment" : "",
@@ -1065,7 +1065,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "int" ],
 									"parameter_enable" : 0,
-									"patching_rect" : [ 594.0, 171.0, 24.0, 24.0 ],
+									"patching_rect" : [ 363.0, 87.0, 24.0, 24.0 ],
 									"rnbo_classname" : "toggle",
 									"rnbo_extra_attributes" : 									{
 										"preset" : 0,
@@ -1084,7 +1084,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
-									"patching_rect" : [ 262.0, 263.0, 254.0, 23.0 ],
+									"patching_rect" : [ 31.0, 179.0, 254.0, 23.0 ],
 									"rnbo_classname" : "p",
 									"rnbo_extra_attributes" : 									{
 										"receivemode" : "local",
@@ -1505,7 +1505,7 @@
 									}
 ,
 									"grainDur" : 									{
-										"value" : 138.0
+										"value" : 200.0
 									}
 ,
 									"rate" : 									{
@@ -1546,7 +1546,7 @@
 												}
 ,
 												"grainDur" : 												{
-													"value" : 138.0
+													"value" : 200.0
 												}
 ,
 												"rate" : 												{
